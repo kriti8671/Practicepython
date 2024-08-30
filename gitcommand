@@ -1,0 +1,7 @@
+Summary of Git Commands You’ll Use:
+Initialize a new Git repository (if needed): git init
+Check the status of your repository: git status
+Add files to the staging area: git add .
+Commit staged changes: git commit -m "Your commit message"
+Add a remote repository: git remote add origin <repository-url>
+Push changes to the remote repository: git push -u origin master or git push -u origin main

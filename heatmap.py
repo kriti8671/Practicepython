@@ -14,3 +14,8 @@ plt.ylabel('Vehicle ID')
 plt.title('Message Loss Pattern Over Time')
 plt.colorbar(label='Message Loss (1 = Lost, 0 = Received)')
 plt.show()
+
+
+# git add .
+# git commit -m "Your commit message here"
+# git push
